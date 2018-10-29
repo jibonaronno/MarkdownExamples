@@ -14,5 +14,5 @@ Another section after triple underscore.<br>
 > This is a sybsection written by starting a \> greater than sign.
 <br>
 This is a hyperlink \[nervoustech rock\]\(http://nervoustech.com:8090\)<br>
-This is a hyperlink [nervoustech rock](http://nervoustech.com:8090)
-This is image ![bold_italic](markdown02.png) .
+This is a hyperlink [nervoustech rock](http://nervoustech.com:8090)<br>
+This is image ! [bold_italic](markdown02.png) .
