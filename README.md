@@ -26,7 +26,7 @@ This is image<br> ![bold_italic](markdown02.png) .<br>
 ## Illustrating Syntax highlighting
 ___
 
-```python
+>```python
 import this
 def my_function():
 print("Hello, World!")
