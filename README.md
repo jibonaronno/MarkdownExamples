@@ -12,3 +12,6 @@ Another section after triple underscore.<br>
 
 \> This is a sybsection written by starting a \> greater than sign.<br>
 > This is a sybsection written by starting a \> greater than sign.
+<br>
+This is a huperlink \[nervoustech rock\]\(http://nervoustech.com:8090\)<br>
+This is a huperlink [nervoustech rock](http://nervoustech.com:8090)
