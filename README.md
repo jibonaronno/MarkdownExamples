@@ -21,4 +21,14 @@ This is image<br> ![bold_italic](markdown02.png) .<br>
 <img alt="NO IMAGE" src="markdown01.png"><br><br>
 
 ## Tables
-![Table](markdown03.png) <br>
+![Table](markdown03.png) <br><br>
+
+## Illustrating Syntax highlighting
+___
+
+```python
+import this
+def my_function():
+print("Hello, World!")
+return 0
+```
