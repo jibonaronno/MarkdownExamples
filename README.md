@@ -15,4 +15,4 @@ Another section after triple underscore.<br>
 <br>
 This is a hyperlink \[nervoustech rock\]\(http://nervoustech.com:8090\)<br>
 This is a hyperlink [nervoustech rock](http://nervoustech.com:8090)
-This is image ![bold/italyc]() .
+This is image ![bold_italic](markdown02.png) .
