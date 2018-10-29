@@ -15,7 +15,7 @@ Another section after triple underscore.<br>
 
 This is a hyperlink \[nervoustech rock](http://nervoustech.com:8090)<br>
 This is a hyperlink [nervoustech rock](http://nervoustech.com:8090)<br>
-This is image ![bold_italic](markdown02.png) .<br>
+This is image<br> ![bold_italic](markdown02.png) .<br>
 
 # BOLD AND OTHER FORMATS
-<img alt="NO IMAGE" src="markdown02.png"><br>
+<img alt="NO IMAGE" src="markdown01.png"><br>
