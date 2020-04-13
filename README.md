@@ -26,6 +26,8 @@ This is image<br> ![bold_italic](markdown02.png) .<br>
 ## Illustrating Syntax highlighting
 ___
 
+<img alt="NO IMAGE" src="markdown04.png"><br>
+
 ```python
 import this
 def my_function():
